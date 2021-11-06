@@ -1,0 +1,145 @@
+@font-face {
+    font-family: "BebasNeue";
+    src: url("../fonts/BebasNeue-Regular.ttf");
+}
+@font-face {
+    font-family: "ZenKakuGothicAntique-Light";
+    src: url("../fonts/ZenKakuGothicAntique-Light.ttf");
+}
+#foto{
+    border-radius: 332px;
+    width: 110px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+section .container-foto h1{
+    position: absolute;
+    margin-top: -96px;
+    margin-left: 196px;
+    font-family: "BebasNeue";
+    font-size: 41px;
+}
+section .container-foto h1 small{
+    display: block;
+    font-family: "ZenKakuGothicAntique-Light";
+    font-size: 19px;
+}
+#left{
+    position: absolute;
+    top: 0px;
+    width: 400px;
+    height: 1789px;
+    background-color: #10ac84;
+}
+section .perfil{
+    margin-top: 55px;
+}
+section .perfil p{
+    width: 830px;
+    margin-left: 50px;
+}
+section .perfil h2{
+    margin-top: 40px;
+    font-family: "BebasNeue";
+    margin-left: 50px;
+}
+section .emprego h2{
+    margin-top: 40px;
+    margin-left: 50px;
+    font-family: "BebasNeue";
+}
+section .emprego p{
+    width: 830px;
+    margin-left: 50px;
+    font-family: "BebasNeue";
+}
+section .emprego .gray{
+    width: 830px;
+    margin-left: 50px;
+    color: #8a8a8a;
+    font-family: "BebasNeue";
+}
+section .emprego ul{
+    width: 790px;
+    margin-left: 50px;
+}
+section .educacao h2{
+    margin-top: 40px;
+    margin-left: 50px;
+    font-family: "BebasNeue";
+}
+section .educacao p{
+    width: 830px;
+    margin-left: 50px;
+    margin-top: 19px;
+    font-family: "BebasNeue";
+}
+section .educacao .gray{
+    width: 830px;
+    margin-left: 50px;
+    color: #8a8a8a;
+    font-family: "BebasNeue";
+}
+section .educacao{
+    margin-bottom: 80px;
+}
+section .localizacao {
+    margin-left: -33px;
+    margin-top: 26px;
+}
+section .detalhes h2{
+    font-family: "BebasNeue";
+}
+section .localizacao li{
+    display: inline-block;
+    font-family: "ZenKakuGothicAntique-Light";
+}
+section .detalhes{
+    color: #fff;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+section .detalhes .list-unstyled{
+    font-family: "ZenKakuGothicAntique-Light";
+    margin-top: -17px;
+}
+section .links{
+    color: #fff;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+section .links h2{
+    font-family: "BebasNeue";
+}
+section .links .list-unstyled{
+    font-family: "ZenKakuGothicAntique-Light";
+    margin-top: 25px;
+}
+section .habilidades{
+    color: #fff;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+section .habilidades h2{
+    font-family: "BebasNeue";
+}
+section .habilidades .list-unstyled{
+    font-family: "ZenKakuGothicAntique-Light";
+    margin-top: 25px;
+}
+section .habilidades #html hr{
+    border: 5px solid;
+    width: 310px;
+}
+section .habilidades #js hr{
+    border: 5px solid;
+    width: 230px;
+}
+section .habilidades #php hr{
+    border: 5px solid;
+    width: 70px;
+}
+#right{
+    position: absolute;
+    left: 420px;
+}
